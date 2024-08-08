@@ -57,4 +57,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [Your Email Address].
+For any questions or inquiries, please contact me at kristan.nagassar@gmail.com
