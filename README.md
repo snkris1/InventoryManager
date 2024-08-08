@@ -47,6 +47,11 @@ This project is a robust and modern inventory management system built with Djang
 
 You can try out a live demo of the Inventory Management System here: [Coming Soon]
 
+## Coming Soon!
+
+* **Inventory Tracking:** We're actively working on adding comprehensive inventory tracking features, including real-time stock level monitoring and low stock alerts.
+* **Reporting and Analytics:** Powerful reporting and analytics tools are in development, allowing you to gain deeper insights into your inventory data and make data-driven decisions.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bug reports and feature suggestions.
