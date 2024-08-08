@@ -1,0 +1,40 @@
+{% extends "invApp/layout.html" %}
+
+{% block title %} Home {% endblock %}
+
+{% block content %}
+    <div class="jumbotron text-center">
+        <h1 class="display-4">Inventory Management Simplified</h1>
+        <p class="lead">
+            Effortlessly track and control your valuable assets.
+        </p>
+        <hr class="my-4">
+        <p>
+            Ready to streamline your inventory workflow? Get started now!
+        </p>
+        <a href="{% url 'product_list' %}" class="btn btn-primary btn-lg" role="button">Manage Your Inventory</a>
+    </div>
+
+    <div class="container" >
+        <div class="row justify-content-center">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <i class="fas fa-plus-circle fa-4x"></i>
+                        <h5 class="card-title mt-3">Add Products</h5>
+                        <p class="card-text">Easily add new products to your inventory with detailed information.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <i class="fas fa-list-ul fa-4x"></i>
+                        <h5 class="card-title mt-3">View Products</h5>
+                        <p class="card-text">Access a comprehensive list of all your products and their details.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
