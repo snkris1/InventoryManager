@@ -45,7 +45,7 @@ This project is a robust and modern inventory management system built with Djang
 
 ## Try it Out!
 
-You can try out a live demo of the Inventory Management System here: [Link to Live Demo]
+You can try out a live demo of the Inventory Management System here: [Coming Soon]
 
 ## Contributing
 
